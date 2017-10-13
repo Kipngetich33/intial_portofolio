@@ -19,15 +19,26 @@ header{
   font-weight: bold;
   padding:10px;
   width:100%;
+  font-size: 25px;
+  font-weight: bold;
+}
+.name{
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
 }
 #profile-pic {
   width: 150px;
   height: 150px;
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  display: block;
+  margin: auto;
 }
 body {
   background-color: white;
 }
-
 .about-me{
   background-color: white;
   margin-top: 0px;
