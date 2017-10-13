@@ -25,12 +25,14 @@ header{
   height: 150px;
 }
 body {
-  background-color: #e6ffe6;
+  background-color: white;
 }
 
 .about-me{
   background-color: white;
   margin-top: 0px;
+  text-align: center;
+
 }
 h3{
   font-family: fantasy;
