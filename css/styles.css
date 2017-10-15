@@ -7,8 +7,7 @@ header{
   color: white;
   margin-bottom: 0px;
 }
-#header-footer-section{
-  background-color:#1a1aff ;
+
 }
 #logo{
   float: left;
@@ -41,6 +40,16 @@ header{
   font-size: 25px;
   font-weight: bold;
   text-align: center;
+  color: white;
+}
+.profile-pic1{
+  width: 150px;
+  height: 150px;
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  display: block;
+  margin: auto;
 }
 .profile-pic {
   width: 100px;
@@ -70,16 +79,31 @@ h3{
 .projects{
   background-color: #1a1aff;
 }
+#project-title{
+  color:white;
+  font-weight: bold;
+  
+}
 .card{
   border-color: black;
   margin: 20px;
 
 }
 footer{
-  height: 300px;
+  height: 500px;
   width:100%;
   background-color:#1a1aff;
   padding:10px;
   color: white;
   font-family: sans-serif;
+
+}
+.footer1-styles a{
+  color: white;
+}
+#footer-column3{
+  background-color:#1a1aff
+}
+.footer-column1{
+  background-color:#1a1aff
 }
