@@ -1,4 +1,4 @@
-#{Portfolio Website}
+# {Portfolio Website} #
 
 This is a website that displays some of the projects that i have built of involved in.
 
@@ -12,7 +12,7 @@ CSS -style-sheet Used
 
 Authors
 
-##Kipngetich Ngeno
+**Kipngetich Ngeno**
 
 License
 
