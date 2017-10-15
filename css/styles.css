@@ -36,6 +36,9 @@ header{
   font-weight: bold;
   float: right;
 }
+.menu a{
+  color:white;
+}
 .name{
   font-size: 25px;
   font-weight: bold;
@@ -82,7 +85,7 @@ h3{
 #project-title{
   color:white;
   font-weight: bold;
-  
+
 }
 .card{
   border-color: black;
