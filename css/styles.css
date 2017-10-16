@@ -85,8 +85,26 @@ h3{
 #project-title{
   color:white;
   font-weight: bold;
-
 }
+.descriptios1{
+  background-color: #bfbfbf;
+  width:90%;
+}
+.descriptios1 p{
+  padding: 10px
+}
+.descriptions2 {
+    width: 150px;
+    height: 150px;
+    float: left;
+    border: 1px solid #ddd; /* Gray border */
+    border-radius: 4px;  /* Rounded border */
+    padding: 5px; /* Some padding */
+    display: block;
+    margin:30px;
+    background: #1a1aff;
+  }
+
 .card{
   border-color: black;
   margin: 20px;
