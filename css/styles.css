@@ -110,6 +110,13 @@ h3{
   margin: 20px;
 
 }
+#hobies{
+  background-color: #e0e0d1;
+}
+#education{
+  background-color:#e0e0d1
+  float:left;
+}
 footer{
   height: 500px;
   width:100%;
