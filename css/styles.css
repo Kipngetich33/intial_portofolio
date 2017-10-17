@@ -66,8 +66,16 @@ header{
 body {
   background-color: white;
 }
-.about-me{
-  background-color: white;
+
+#about-me{
+  background-color: #F0F0F0 ;
+  margin-top: 0px;
+}
+#about-me h3{
+  text-align: center;
+}
+.skill-set{
+  background-color: #F0F0F0  ;
   margin-top: 0px;
   text-align: center;
 }
