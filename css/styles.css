@@ -71,9 +71,6 @@ body {
   background-color: #F0F0F0 ;
   margin-top: 0px;
 }
-#about-me h3{
-  text-align: center;
-}
 .skill-set{
   background-color: #F0F0F0  ;
   margin-top: 0px;
@@ -120,10 +117,11 @@ h3{
 }
 #hobies{
   background-color: #e0e0d1;
+  text-align: center;
 }
 #education{
-  background-color:#e0e0d1
-  float:left;
+  background-color:#e0e0d1;
+  padding-left: 20px;
 }
 footer{
   height: 500px;
@@ -142,4 +140,31 @@ footer{
 }
 .footer-column1{
   background-color:#1a1aff
+}
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
 }
