@@ -1,5 +1,12 @@
+#name{
+    position: relative;
+    padding-left: 50px;
+    padding-top: 150px;
+}
 
-header{
+
+
+/**header{
   height: auto;
   background-color: #1a1aff;
   padding: 10px;
