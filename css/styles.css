@@ -21,9 +21,14 @@ li a:hover {
     background-color: #FFFFFF;
 }
 #name{
-    position: relative;
-    padding-left: 50px;
-    padding-top: 150px;
+    position: fixed;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+#full-names{
+  display:inline-block;
+  margin-left: 25%;
+  margin-top: 12%;
 }
 .skill-set{
   text-align: center;
@@ -47,3 +52,24 @@ li a:hover {
   font-style:italic;
   font-family: fantasy;
 }
+#customized-menu{
+  position: fixed;
+  top:15%;
+  left: 65%;
+ /* border: solid red 2px;*/
+  width:28%;
+  display: inline-block;
+}
+.card{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  border-radius: 15%;
+  color: #ffffff;
+  text-align: center;
+  background-color: #000000;
+  padding-top: 2%;
+  opacity: 0.5;
+  margin-top: 4px;
+}
+.card 
