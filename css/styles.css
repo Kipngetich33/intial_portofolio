@@ -30,6 +30,9 @@ li a:hover {
   margin-left: 25%;
   margin-top: 12%;
 }
+#h1-name{
+  font-family: 'Lobster', cursive;
+}
 .skill-set{
   text-align: center;
 }
@@ -72,4 +75,50 @@ li a:hover {
   opacity: 0.5;
   margin-top: 4px;
 }
-.card 
+
+#full-names{
+  display: none;
+}
+
+/*This section is for icon hover effects*/
+#icon-effect-1a .icon:hover {
+    background-color: @white-color;
+    color: @main-color;
+}
+
+#icon-effect-1a .icon:hover:after {
+    .transition-scale(1); // mixins
+    opacity: 1;
+}
+
+/*This section hides the header one sliders*/
+#slide-header{
+  display: none;
+  color:#328284;
+  font-family: 'Lobster', cursive;
+}
+#slide-header1{
+  display: none;
+  color:#ffffff;
+}
+#slide-header2{
+  /*display: none;*/
+  color:#ffffff;
+}
+#slide-header3{
+  display: none;
+  color:#ffffff;
+}
+#slide-paragraphs{
+  display: none;
+}
+#contact-me-h1{
+  color:#328284;
+}
+#contact-me-h2{
+  color:#000000;
+  font-family: 'Lobster', cursive;
+}
+#white-font{
+  color: #ffffff;
+}
