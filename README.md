@@ -40,4 +40,6 @@ SOFTWARE.
 
 #### Acknowledgments
 
-As the author of this project I would like to acknowledge bootstrap company whose code was used to sculpture the project.
+* bootstrap
+* StackOverflow
+* Moringa School
