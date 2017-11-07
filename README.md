@@ -1,6 +1,6 @@
 # Portfolio Website
 
-####This is a website that displays some of the projects that i have built of involved in.
+#### This is a website that displays some of the projects that i have built of involved in.
 
 link:https://kipngetich33.github.io/
 
@@ -10,7 +10,7 @@ link:https://kipngetich33.github.io/
 * HTML- Markup language Used
 * CSS -style-sheet Used
 
-##Authors
+## Authors
 
 **Kipngetich Ngeno**
 
@@ -18,7 +18,7 @@ License
 
 ## MIT License
 
-####Copyright (c) [2017] [Kipngetich Ngeno]
+#### Copyright (c) [2017] [Kipngetich Ngeno]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -38,6 +38,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-####Acknowledgments
+#### Acknowledgments
 
 As the author of this project I would like to acknowledge bootstrap company whose code was used to sculpture the project.
