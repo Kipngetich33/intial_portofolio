@@ -1,10 +1,8 @@
 $(document).ready(function(){
-  $("#full-names").slideToggle();
+  $("#full-names").slideToggle(3000);
   $("#customized-menu").fadeOut();
-  $("#customized-menu").fadeIn();
+  $("#customized-menu").fadeIn(3000);
 
-  $("#customized-menu").slideToggle();
-  $("#customized-menu").slideToggle();
   
 // This section creates slide in effect for h4s
   $("#slide-header").slideToggle();
